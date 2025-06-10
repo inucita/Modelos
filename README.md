@@ -18,6 +18,7 @@ Modelo Rumor Detection:
 5. Se generará un archivo .h5 para el embedding.
 6. En la carpeta ModeloRD se debe ejecutar entrenamientoRD2.py
 7. Se generará el modelo de Rumor Detection.
+
 Nota: Si se quiere ejecutar un experimento en específico, se debe comentar los  que no se quieran generar.
 
 ![image](https://github.com/user-attachments/assets/1b0c1e78-fb9c-4c1b-a182-97fe6ff91fc6)

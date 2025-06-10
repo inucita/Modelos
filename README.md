@@ -1,4 +1,5 @@
 # Modelos
+Al descargar el zip se tienen 3 carpetas con sus respectivos codigos, solo se debe descargar el conjunto de datos y ponerlo en la carpeta correspondiente. Ya estan las sub carpetas y subcodigos creados.
 Modelo Hate Speech:
 1. Una vez descargado el dataset HASOC 2019, debe ser almacenado en la carpeta ModeloHS\Preprocesamiento.
 2. Se debe ejecutar el código preprocesamiento.py.
